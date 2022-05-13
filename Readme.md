@@ -1,3 +1,3 @@
-# DEMO
+# Google Data Analytics Capstone Project (Divvy_Trips)
 
-demo readme file!!
+
