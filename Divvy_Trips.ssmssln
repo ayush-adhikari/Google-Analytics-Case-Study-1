@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Divvy_Trips", "C:\Users\adhik\Documents\SQL Server Management Studio\Divvy_Trips\Divvy_Trips.ssmssqlproj", "{5B2AC67F-1246-4FDB-AA5A-041DA95F47EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2AC67F-1246-4FDB-AA5A-041DA95F47EC}.Default|Default.ActiveCfg = Default
+		{54E2EBD1-2342-45C7-A441-F2649A5AC2C4}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C47392-1F17-4823-846E-726D1F96D4AB}
+	EndGlobalSection
+EndGlobal
